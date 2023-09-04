@@ -1,4 +1,6 @@
-﻿namespace Biblioteca.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Biblioteca.Models
 {
     public class Livro
     {

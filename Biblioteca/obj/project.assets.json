@@ -3441,11 +3441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samanta.melissa\\Documents\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\samanta.melissa\\Documents\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\samanta.melissa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samanta.melissa\\Documents\\Desenvolvimento API\\Biblioteca\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samanta.melissa\\AppData\\Roaming\\NuGet\\NuGet.Config",

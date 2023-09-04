@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjkX/KYlZ440SwE2rTrcioWSYQJBY9DyEpuhp+YgXaMOU55URSlsNjWIZxS0A4KdNZMgqE02l6eyjqy70JqSmQ==",
+  "dgSpecHash": "pNwtqy1vKqZg+UTGWJT3UgWntzvjb44ZsrYlDHT1F/zhdAc1OqM/wJwJbbaxXogacN95LDKGex2QYrbgLbQu/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samanta.melissa\\Documents\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
