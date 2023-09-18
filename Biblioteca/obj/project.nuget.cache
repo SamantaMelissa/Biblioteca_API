@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pNwtqy1vKqZg+UTGWJT3UgWntzvjb44ZsrYlDHT1F/zhdAc1OqM/wJwJbbaxXogacN95LDKGex2QYrbgLbQu/w==",
+  "dgSpecHash": "lqWgpsaxRR9/5MvPt5vNckvTyt55AbdALymBp9bN/TGYCC/Yznez9EW2IBIKA1lh4nkOjUIwlArmurvy2WHxaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\samanta.melissa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.12\\microsoft.aspnetcore.authentication.jwtbearer.6.0.12.nupkg.sha512",
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\samanta.melissa\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

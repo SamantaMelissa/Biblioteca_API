@@ -52,7 +52,11 @@ namespace Biblioteca.Repositories
 
         public void DeletarLivro(int id)
         {
-            //remove()
+            Livro livro = _context.Livros.Find(id);
+
+            _context.Livros.Remove(livro);
+
+            _context.SaveChanges();
         }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\samanta.melissa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samanta.melissa\\Documents\\FULLSTACK\\Desenvolvimento API\\Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\samanta.melissa\\Desktop\\UC14 - ER4\\Biblioteca_API\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samanta.melissa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.10, )"
